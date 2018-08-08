@@ -25,7 +25,7 @@ header {
 .top-wrapper {
 	height: 500px;
 	margin: 0 auto;
-	background-image: url(/Tweet/image/back_image.jpg);
+	background-image: url(back_image.jpg);
 	background-size: cover;
 	text-align: center;
 	padding: 300px 0 0 100px;

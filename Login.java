@@ -8,8 +8,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import model.LoginLogic;
-import model.User;
+import LoginLogic;
+import User;
 
 @WebServlet("/Login")
 public class Login extends HttpServlet {

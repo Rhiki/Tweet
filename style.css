@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+}
+/*ヘッダー*/
+header {
+	width: 100%;
+	height: 60px;
+	color: white;
+	background-color: black;
+	opacity: 0.9;
+	position: fixed;
+}
+.header-logo {
+	font-size: 25px;
+	padding: 10px 10px;
+	float: left;
+}
+.header-list li {
+	list-style: none;
+	padding: 20px;
+	float: right;
+}
+
+/*トップラッパー*/
+.top-wrapper {
+	height: 500px;
+	margin: 0 auto;
+	background-image: url(/Tweet/image/back_image.jpg);
+	background-size: cover;
+	text-align: center;
+	padding: 300px 0 0 100px;
+	color: white;
+}
+.top-wrapper h1 {
+	opacity: 0.7;
+	font-size: 45px;
+	letter-spacing: 5px;
+}
+.top-wrapper p {
+	opacity: 0.7;
+	margin-bottom: 40px;
+}

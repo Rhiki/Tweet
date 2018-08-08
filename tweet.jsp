@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ page import="model.User" %>
-<%@ page import="model.Tweet" %>
+<%@ page import="User" %>
+<%@ page import="Tweet" %>
 <%@ page import="java.util.List" %>
 <%
 //セッションスコープに保存されたユーザー情報を取得
